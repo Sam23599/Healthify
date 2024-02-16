@@ -22,7 +22,7 @@ Healthify is a machine learning-based project developed in Python that predicts 
 
 ## Usage
 
-1. Run the main file `Healthify.py` to launch the GUI.
+1. Run the main file `clean_code.py` to launch the GUI.
 2. Enter symptoms for prediction.
 3. Click on the respective buttons for prediction based on Decision Tree, Random Forest, or Naive Bayes.
 4. View the predicted disease in the GUI.
