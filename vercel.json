@@ -1,8 +1,7 @@
 {
   "functions": {
     "api/clean_code": {
-      "runtime": "python3.8",
-      "includeFiles": ["Training.csv", "Testing.csv"]
+      "runtime": "python3.8"
     }
   }
 }
